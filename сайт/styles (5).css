@@ -1,0 +1,62 @@
+body{
+	background-image: url('photo/117.jpg');
+	background-size: 100%;
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+}
+.wrap {
+         width: 1000px;/*фиксируем ширину обертки*/
+         margin: auto;/*центрируем ее*/
+         background-image: url('photo/10.jpg');
+         height: 120px;/*Задаем высоту обертки*/
+         
+        
+
+        }
+	
+.catside a:hover { color: white;}
+link	
+}
+.wrap :last-child {
+        margin-right: 0px;/*Убираем поле последнего div-а*/
+                       }
+#sss{
+	float: right; /*Задаем обтекание*/
+     line-height: 50px;/*Высота строки +  верт. центрирования текста*/
+     font-size: 40px;
+     background: black;
+     color: white;
+     margin-top: 60px;
+     width: 235px; /*Фиксируем ширину блока*/
+     margin-right: 10px;
+     text-align: center; /*Центрируем текст по горизонтали*/
+
+    
+}
+.silka{
+
+	background: white;
+	display: block;
+	width: 165px;
+	margin: 2px;
+	margin: auto;
+	position: absolute;
+	top: 150px;
+	left: -830px;
+	right: 0px;
+	
+	
+        
+    
+
+}
+.edin{
+	background: white;
+	display: block;
+	width: 850px;
+	float: left;
+	margin: auto;
+    position: absolute;
+	top: 150px;
+	left: 150px;
+	right: 0; 
